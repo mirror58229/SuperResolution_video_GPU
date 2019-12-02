@@ -1,5 +1,6 @@
 # SuperResolution_video_GPU
 
+resource: https://github.com/mirror58229/SuperResolution_video_GPU
 
 本项目展示的是：在GPU环境下基于传统的光流算法完成的视频超分辨率重构
 
